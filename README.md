@@ -17,3 +17,7 @@ The database CSV file contains the following information:
 |Attempt  | attempt number                                                                                                           |
 |LFIN_#   | average absolute value for left hand, where # represents: s = speed (mm/s), a = acceleration (mm/s2), j = jerk (mm/s3)   |
 |RFIN_#   | average absolute value for right hand, where # represents: s = speed (mm/s), a = acceleration (mm/s2), j = jerk (mm/s3)  |
+
+# Cite
+
+> Villagrán, I., Moënne-Loccoz, C., Aguilera, V., García, V., Reyes, J. T., Rodríguez, S., Miranda, C., Altermatt, F., Fuentes-López, E., Delgado, M., & Neyem, A. (2021). Biomechanical analysis of expert anesthesiologists and novice residents performing a simulated central venous access procedure. PloS one, 16(4), e0250941. https://doi.org/10.1371/journal.pone.0250941
